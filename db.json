@@ -1,0 +1,51 @@
+{
+    "profesores":[
+        {
+            "nombre": "Marciano",
+            "apellido": "Hoz",
+            "materias":[
+                {
+                    "nombre": "DAW"
+                },
+                {
+                    "nombre": "PROG"
+                },
+                {
+                    "nombre": "ECO"
+                }
+            ]
+        }
+    ],
+    "alumnos":[
+        {
+            "nombre": "Juan",
+            "apellido": "Feo",
+            "promedio":8.2
+        },
+        {
+            "nombre": "Eva",
+            "apellido": "alf",
+            "promedio":10
+        },{
+            "nombre": "Jan",
+            "apellido": "kill",
+            "promedio":4
+        }
+    ],
+    "cursos":[
+        {
+            "nombre": "Angular",
+            "duracion": 10,
+            "dificultad":"intermedia"
+        },
+        {
+           "nombre": "ReacJS",
+            "duracion": 7,
+            "dificultad":"intermedia"
+        },{
+           "nombre": "Java",
+            "duracion": 7,
+            "dificultad":"alta"
+        }
+    ]
+}
